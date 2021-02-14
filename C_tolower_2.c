@@ -4,7 +4,7 @@
 int main(void)
 {
 	char a = 'A';
-	printf("%cÀÇ ¼Ò¹®ÀÚ´Â %cÀÔ´Ï´Ù.\n", a, tolower(a));
+	printf("%cì˜ ì†Œë¬¸ìëŠ” %cì…ë‹ˆë‹¤.\n", a, tolower(a));
 
 	return 0;
 }
