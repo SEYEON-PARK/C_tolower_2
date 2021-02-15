@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char a = 'A';
+	char a = 'A'; // 초기화
 	printf("%c의 소문자는 %c입니다.\n", a, tolower(a));
 
 	return 0;
